@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2614ae8a-6d2c-4027-a06b-dd5215d84391)![image](https://github.com/user-attachments/assets/d1ddab58-0363-4ae2-a625-2ef6a171b797)# 💻 Ramon Antunes  
+# 💻 Ramon Antunes  
 
 🎓 **Graduando em Ciência da Computação** pela Universidade Federal Fluminense (UFF)  
 📍 Niterói, RJ | 🌐 [LinkedIn](https://www.linkedin.com/in/ramon-antunes) | 📧 ramonfernando@id.uff.br | 📞 (21) 98240-0663  
