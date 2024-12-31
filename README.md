@@ -13,22 +13,27 @@ Busco novas oportunidades para expandir minhas habilidades, contribuir estrategi
 ---
 
 ## 🛠️ Habilidades  
+
 ### Linguagens  
-- **Dart**, **Ruby**, **Python**, **C**, **Java**, **JavaScript**, **HTML**, **CSS**
+<div>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dart.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" alt="Ruby" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/c.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3.svg" alt="CSS" width="40" height="40"/>
+</div>
 
 ### Frameworks & Ferramentas  
-- **Flutter**, **Ruby on Rails**, **Firebase**, **Docker**, **Figma**
-
-
-### Soft Skills  
-- Trabalho em equipe  
-- Liderança  
-- Pensamento crítico  
-- Criatividade em soluções UX  
-
-### Idiomas  
-- Português: Nativo  
-- Inglês: Fluente  
+<div>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/flutter.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/rails.svg" alt="Ruby on Rails" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/firebase.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/figma.svg" alt="Figma" width="40" height="40"/>
+</div>
 
 ---
 
