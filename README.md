@@ -1,7 +1,8 @@
+DEPRECATED
+
 # 💻 Ramon Antunes  
 
-🎓 **Graduando em Ciência da Computação** pela Universidade Federal Fluminense (UFF)  
-📍 Niterói, RJ | 🌐 [LinkedIn](https://www.linkedin.com/in/ramon-antunes) | 📧 ramonfernando@id.uff.br | 📞 (21) 98240-0663  
+🎓 **Graduando em Ciência da Computação** pela Universidade Federal Fluminense (UFF)   
 
 ---
 
